@@ -223,7 +223,8 @@ p{
 
 .main__tabs-text{
     color: var(--white);
-    line-height: 14px;
+    font-size: 25px;
+    line-height: 35px;
     text-align: justify;
 }
 
